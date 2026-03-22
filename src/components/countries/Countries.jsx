@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Country = () => {
+const Countries = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const Country = () => {
     );
 };
 
-export default Country;
+export default Countries;

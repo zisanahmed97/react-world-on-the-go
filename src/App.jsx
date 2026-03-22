@@ -1,6 +1,7 @@
 
 import './App.css'
-import Country from './components/countries/Country'
+import Countries from './components/countries/Countries'
+
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
     <>
 
    <h1>React world on the go</h1>
-   <Country></Country>
+   <Countries></Countries>
     </>
   )
 }
